@@ -57,13 +57,13 @@ The app is structured into the following key files:
 Here are some screenshots of the app's user interface:
 
 ### Question Screen
-![Question Screen](https://raw.githubusercontent.com/msk1523/quiz_app/master/QuizApp_Questions.png)
+![Question Screen](https://github.com/msk1523/quiz_app/blob/master/QuizApp_Questions.jpg)
 
 _Provide a clear and visually descriptive screenshot of the quiz question screen. Ensure all UI components like the question, options, and submit button are clearly visible._
 
 
 ### Result Screen
-![Result Screen](https://raw.githubusercontent.com/msk1523/quiz_app/master/QuizApp_Results.png)
+![Result Screen](https://github.com/msk1523/quiz_app/blob/master/QuizApp_Results.jpg)
 
 _Provide a clear and visually descriptive screenshot of the quiz result screen. Make sure elements such as the final score and the restart button are prominently displayed._
 
@@ -73,7 +73,7 @@ _Provide a clear and visually descriptive screenshot of the quiz result screen. 
 
 Here is a link to a screen recording of the app in action:
 
-[Link to your screen recording](https://raw.githubusercontent.com/msk1523/quiz_app/master/QuizApp.mp4).
+[Link to your screen recording](https://github.com/msk1523/quiz_app/blob/master/QuizApp.mp4).
 
 _(Provide a link to your screen recording, or describe how to access the recording if it's part of the repository.)_
 
