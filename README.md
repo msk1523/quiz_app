@@ -59,13 +59,11 @@ Here are some screenshots of the app's user interface:
 ### Question Screen
 ![Question Screen](https://github.com/msk1523/quiz_app/blob/master/QuizApp_Questions.jpg)
 
-_Provide a clear and visually descriptive screenshot of the quiz question screen. Ensure all UI components like the question, options, and submit button are clearly visible._
 
 
 ### Result Screen
 ![Result Screen](https://github.com/msk1523/quiz_app/blob/master/QuizApp_Results.jpg)
 
-_Provide a clear and visually descriptive screenshot of the quiz result screen. Make sure elements such as the final score and the restart button are prominently displayed._
 
 (Replace `link_to_your_question_screen_screenshot.png` and `link_to_your_result_screen_screenshot.png` with actual links or paths to your screenshots.)
 
@@ -75,12 +73,4 @@ Here is a link to a screen recording of the app in action:
 
 [Link to your screen recording](https://github.com/msk1523/quiz_app/blob/master/QuizApp.mp4).
 
-_(Provide a link to your screen recording, or describe how to access the recording if it's part of the repository.)_
 
-## Contributing
-
-Feel free to contribute to the project by submitting pull requests for new features, bug fixes, or improvements.
-
-## License
-
-[Add your license if applicable, e.g. MIT License]
